@@ -1,0 +1,21 @@
+---
+title: "Scholarship, Podcasting and more"
+image: "/Users/baileraj/Downloads/20220923_141947.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+links:
+  - label: Stats+Stories Podcast
+    url: https://statsandstories.net
+  - label: Statistics Behind the Headlines Book
+    url: https://www.routledge.com/Statistics-Behind-the-Headlines/Bailer-Pennington/p/book/9780367902520
+  - label: Amazon Author page
+    url:https://www.amazon.com/stores/author/B00DVPADF8/about
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=zqz2ng0AAAAJ&hl=en
+  - label: Orchid
+    url: https://orcid.org/0000-0002-7233-1461
+output:
+  postcards::onofre
+---
+ 
+After a career as an academic statistician including 13 years as a department chair, I continued to enjoy podcasting on Stats+Stories (www.statsandstories.net). 

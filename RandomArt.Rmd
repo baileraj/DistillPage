@@ -1,0 +1,13 @@
+---
+title: "Random Art"
+# image: "/Users/baileraj/Downloads/20171229_094146.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+---
+ 
+```{r, echo=FALSE}
+library(aRtsy)
+canvas_mandelbrot(colors = colorPalette("tuscany1"))
+# see ?canvas_mandelbrot for more input parameters of this function
+```
+

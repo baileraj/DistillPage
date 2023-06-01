@@ -1,0 +1,30 @@
+---
+title: "John Bailer"
+image: "/Users/baileraj/Downloads/20171229_094146.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/a-john-bailer/"
+  - label: Twitter
+    url: "https://twitter.com/john_bailer"
+  - label: GitHub
+    url: "https://github.com/baileraj"
+  - label: Email
+    url: "mailto:baileraj@miamioh.edu"
+output:
+  postcards::onofre
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+

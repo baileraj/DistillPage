@@ -1,0 +1,15 @@
+---
+title: "Who am I?"
+image: "/Users/baileraj/Downloads/Teaching-Photo-2015.jpeg"
+color1: "#5A59A3"
+color2: "#C66060"
+links:
+  - label: International Statistical Institute
+    url: http://www.isi-web.org
+  - label: American Statistical Association
+    url: http://www.amstat.org
+output:
+  postcards::onofre
+---
+ 
+A. John Bailer is emeritus professor of statistics at Miami University. He retired after 34 years at Miami University where he was university distinguished professor and founding chair of the Department of Statistics. He was ISI President 2019-2021, and previously served on the ASA Board of Directors.He is an ASA Fellow and a fellow in the Society for Risk Analysis and the AAAS.

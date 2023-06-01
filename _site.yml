@@ -1,0 +1,21 @@
+name: "Bailer_website2"
+title: "John Bailer's website"
+description: |
+  John Bailer
+output_dir: "docs"
+theme: theme.css
+color1: "#5A59A3"
+color2: "#C66060"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Scholarship, Podcasting, and more"
+      href: scholarship.html
+    - text: "History"
+      href: history.html
+    - text: "Random Art"
+      href: RandomArt.html
+output: distill::distill_article

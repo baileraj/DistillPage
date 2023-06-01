@@ -1,0 +1,19 @@
+---
+title: "John Bailer"
+image: "/Users/baileraj/Downloads/20171229_094146.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::onofre
+---
+ 
+After a career as an academic statistician including 13 years as a department chair, I continued to enjoy podcasting on Stats+Stories (www.statsandstories.net). 
